@@ -1,2 +1,2 @@
-# NamedCardsJSProj
-NamedCards using JS,CSS,Html
+# NumberedCardsJSProj
+NumberedCards using JS,CSS,Html
